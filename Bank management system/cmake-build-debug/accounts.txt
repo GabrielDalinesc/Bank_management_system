@@ -1,0 +1,4 @@
+5678 marian andrei 400.00
+123456 gabriel daniel 390.00
+6789 andrei bogdan 200.00
+6789 andrei bogdan 300.00
